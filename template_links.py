@@ -1,4 +1,3 @@
-import json
 import sys
 import mysql.connector
 import argparse
